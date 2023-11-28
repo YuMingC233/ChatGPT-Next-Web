@@ -6,8 +6,9 @@ import { getClientConfig } from "./config/client";
 import { type Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "ChatGPT Next Web",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "GPT Mirror",
+  description:
+    "ChatGPT mirrors, using OpenAI's resources to make it easier for others to use gpt. Powered by ChatGPT-Next-Web,ChatGPT can make mistakes. Consider checking important information.",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "ChatGPT Next Web",
+    title: "GPT Mirror",
     statusBarStyle: "default",
   },
 };
