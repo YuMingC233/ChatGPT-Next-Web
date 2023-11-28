@@ -101,10 +101,10 @@
     },
     "windows": [
       {
-        "fullscreen": false,
+        "fullscreen": true,
         "height": 600,
         "resizable": true,
-        "title": "ChatGPT Next Web",
+        "title": "GPT Mirror",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"

@@ -8,7 +8,7 @@ import { type Metadata } from "next";
 export const metadata: Metadata = {
   title: "GPT Mirror",
   description:
-    "ChatGPT mirrors, using OpenAI's resources to make it easier for others to use gpt. Powered by ChatGPT-Next-Web,ChatGPT can make mistakes. Consider checking important information.",
+    "ChatGPT mirrors, using OpenAI's resources to make it easier for others to use gpt. Powered by ChatGPT-Next-Web, ChatGPT can make mistakes. Consider checking important information.",
   viewport: {
     width: "device-width",
     initialScale: 1,
